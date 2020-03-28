@@ -20,7 +20,7 @@ To ensure safe access to shared data, you can use mutex locks.
 
  - [Multithreaded Implementation In C](./bankers_algorithm.c)
 
-### Compile Manually
+### Compile Manually(use only for Ubuntu terminal) 
 
 ```bash
 # compile
